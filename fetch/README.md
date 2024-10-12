@@ -1,1 +1,0 @@
-Fetching Data from an API and Displaying It
